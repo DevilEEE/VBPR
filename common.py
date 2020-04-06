@@ -8,6 +8,7 @@ import numpy as np
 import codecs
 import os
 import pandas as pd
+import re
 
 class vote:
     def __init__(self):
