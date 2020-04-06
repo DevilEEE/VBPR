@@ -7,8 +7,9 @@ Created on Mon Jul 16 13:50:56 2018
 import numpy as np
 import codecs
 import os
-import pandas as pd
 import re
+import jieba
+
 
 class vote:
     def __init__(self):
